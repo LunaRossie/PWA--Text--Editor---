@@ -46,7 +46,7 @@ This project is licensed under MIT.
 
 ## Deployed Site
 
-
+https://lunarossie.github.io/PWA--Text--Editor---/
 
 ## Video Link
 
