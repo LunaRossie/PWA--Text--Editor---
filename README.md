@@ -7,6 +7,7 @@ Table of Contents
 # Github 
 # License
 # Deployed Site
+# Heroku URL
 # Video Link
 # Questions
 
@@ -47,6 +48,13 @@ This project is licensed under MIT.
 ## Deployed Site
 
 https://lunarossie.github.io/PWA--Text--Editor---/
+
+
+## Heroku URL
+
+https://git.heroku.com/desolate-oasis-54052.git
+https://dashboard.heroku.com/apps/desolate-oasis-54052/activity
+
 
 ## Video Link
 
